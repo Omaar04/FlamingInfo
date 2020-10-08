@@ -1,6 +1,6 @@
 # Flaming Hangout Rules
 **1. Encourage respectful discussion**
-Any disrespect, harassment or bashing of other members or groups (and idols) will be met with warnings and punishments.
+Any disrespect, harassment or bashing of other members or groups will be met with warnings and punishments.
 
 **2. Use only English**
 That helps the staff team to track any rules breakers way easier!
@@ -17,4 +17,4 @@ Advertising other servers, self-advertising, soliciting donations, and any other
 **6. Feel free to contact staff**
 The staff can help you with any problem that is related to the server, please dont disturb staff if you don't need anything!
 
-# ENJOY! :D
+**ENJOY! :D**
